@@ -1,7 +1,7 @@
 [submodule "crazyflie-firmware"]
 	path = crazyflie-firmware
-	url = https://github.com/llanesc/crazyflie-firmware.git
-	branch = crazysim
+	url = https://gitee.com/LJN2017117574/crazyflie_firmware.git
+	branch = feat/l2f_crazysim
 [submodule "crazyflie-lib-python"]
 	path = crazyflie-lib-python
 	url = https://github.com/llanesc/crazyflie-lib-python.git
