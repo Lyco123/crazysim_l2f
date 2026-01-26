@@ -69,7 +69,8 @@ Run the command to build the firmware and Gazebo plugins.
 ```bash
 cd crazyflie-firmware
 mkdir -p sitl_make/build && cd $_
-cmake ..
+cmake .. -DENABLE_OOT=OFF
+cmake .. -DENABLE_OOT=ON # if you want to build the out-of-tree controller
 make all
 ```
 

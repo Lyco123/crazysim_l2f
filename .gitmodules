@@ -10,3 +10,9 @@
 	path = crazyswarm2_ws/src/crazyswarm2
 	url = https://github.com/llanesc/crazyswarm2.git
 	branch = crazysim
+[submodule "l2f_controller"]
+	path = l2f_controller
+	url = https://gitee.com/LJN2017117574/l2f_controller.git
+[submodule "rl_tools"]
+	path = rl_tools
+	url = https://github.com/rl-tools/rl-tools.git
